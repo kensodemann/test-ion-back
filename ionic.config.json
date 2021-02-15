@@ -1,0 +1,7 @@
+{
+  "name": "test-ion-back",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
